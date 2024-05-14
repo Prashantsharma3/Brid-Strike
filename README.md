@@ -16,6 +16,7 @@ The dataset used for this analysis contains records of bird strikes reported by 
 # Dashboard
 A dashboard has been created to visualize the analysis findings. It includes interactive charts and maps to explore bird strike data dynamically.
 
+
 # Technologies Used
 Python
 Pandas
