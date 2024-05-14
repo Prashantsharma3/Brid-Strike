@@ -15,7 +15,7 @@ The dataset used for this analysis contains records of bird strikes reported by 
     Development of recommendations for airlines and aviation authorities to mitigate the risk of bird strikes.
 # Dashboard
 A dashboard has been created to visualize the analysis findings. It includes interactive charts and maps to explore bird strike data dynamically.
-
+[ https://github.com/Prashantsharma3/Brid-Strike ]   Repo Link .
 
 # Technologies Used
 Python
